@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Zenodo deposit contains Python simulation code, processed numerical results, analysis notebooks, and publication-ready figures for stochastic wetting/dewetting and nucleation in two zeolitic imidazolate framework (ZIF) topologies:
+This deposit contains Python simulation code, processed numerical results, analysis notebooks, and publication-ready figures for stochastic wetting/dewetting and nucleation in two zeolitic imidazolate framework (ZIF) topologies:
 
 - **ZIF-71**, represented by the **RHO** topology;
 - **ZIF-67**, represented by the **SOD** topology.
@@ -195,8 +195,6 @@ If you use this code or data, cite both the Zenodo record and the associated pub
 **Associated publication**
 
 > [Liam J. W. Johnson, Daniel Moreno-Rodríguez, Eder Amayuelas, Luis Bartolomé, Francisco Bonilla, German Gómez, Juan-Miguel López del Amo, Gabriel A. López, Alberto Giacomello, and Yaroslav Grosu]. ([2026]). [How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks]. *[ACS Applied Materials & Interfaces]*. [DOI]
-
-Replace the bracketed metadata above with the final author list, publication year, title, journal, and DOI before publishing the deposit. Zenodo also provides an automatically generated citation after the record is published.
 
 ## Contact
 
