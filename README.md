@@ -15,7 +15,7 @@ The repository is divided into two complementary studies:
 ## Repository contents
 
 ```text
-ZENODO_repository/
+ZIF_repository/
 ├── README.md
 ├── Hysteresis_cycles/
 │   ├── ZIF-71(RHO)/
@@ -179,11 +179,11 @@ Each nucleation pressure has one aggregated fitted result. Trend statistics in t
 
 ## Citation
 
-If you use this code or data, please, cite the publication: *Johnson et al. 2026. **How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks**. ACS Applied Materials & Interfaces. [DOI]*
+If you use this code or data, please, cite the publication: *Johnson et al. 2026. **How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks**. ACS Applied Materials & Interfaces. [DOI]* **under revision**
 
 **Associated publication**
 
-> Liam J. W. **Johnson**, Daniel **Moreno-Rodríguez**, Eder Amayuelas, Luis Bartolomé, Francisco Bonilla, German Gómez, Juan-Miguel López del Amo, Gabriel A. López, Alberto Giacomello, and Yaroslav Grosu. **2026**. How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks. *ACS Applied Materials & Interfaces*. [DOI]
+> Liam J. W. **Johnson**, Daniel **Moreno-Rodríguez**, Eder Amayuelas, Luis Bartolomé, Francisco Bonilla, German Gómez, Juan-Miguel López del Amo, Gabriel A. López, Alberto Giacomello, and Yaroslav Grosu. **2026**. How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks. *ACS Applied Materials & Interfaces*. [DOI] **under revision**
 
 ## Contact
 
