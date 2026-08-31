@@ -1,0 +1,2 @@
+Group,N_Files,N_Unique_Results,Hysteresis_Mean,Hysteresis_SD,Intrusion_Pressure_Mean,Intrusion_Pressure_SD,Extrusion_Pressure_Mean,Extrusion_Pressure_SD
+SOD/cage_filling_data,10,5,1.5611308542598343,0.17784470781405676,28.499141652360873,0.3885291602075128,23.586226437107285,0.3881573563307823
