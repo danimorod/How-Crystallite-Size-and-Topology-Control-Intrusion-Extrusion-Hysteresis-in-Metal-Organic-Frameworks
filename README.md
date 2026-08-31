@@ -117,7 +117,7 @@ The notebook reads the replicate CSV files, calculates summary metrics, and gene
 
 ## Reproducing the nucleation calculations
 
-The nucleation scripts perform multiple stochastic realizations at each pressure and fit the survival probability with the stretched-exponential model
+The nucleation scripts perform multiple stochastic realizations at each pressure and fit the survival probability with the stretched-exponential model. It is based on the method of Sear (2013) (dx.doi.org/10.1021/cg301849f | Cryst. Growth Des. 2013, 13, 1329−1333).
 
 ```text
 S(t) = exp[-(t / tau)^beta],
@@ -164,7 +164,7 @@ The notebook automatically locates the two deposited sweep CSV files, validates 
 - `sear_fit_diagnostics.png`;
 - `sear_reconstructed_survival.png`.
 
-The survival curves in the analysis figure are reconstructed from the fitted `beta` and `tau` values. They are not empirical Kaplan–Meier curves because replicate-level first-passage times are not included in the processed pressure-sweep CSV files.
+The survival curves in the analysis figure are reconstructed from the fitted `beta` and `tau` values.
 
 ## Data conventions
 
@@ -186,11 +186,7 @@ Each nucleation pressure has one aggregated fitted result. Trend statistics in t
 
 ## Citation
 
-If you use this code or data, cite both the Zenodo record and the associated publication.
-
-**Zenodo record**
-
-> [Authors]. ([Year]). *Stochastic wetting, hysteresis, and nucleation in ZIF-71 (RHO) and ZIF-67 (SOD)* [Data set and software]. Zenodo. https://doi.org/[ZENODO DOI]
+If you use this code or data, cite both the publication: Johnson et al. ([2026]). How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks. [ACS Applied Materials & Interfaces]. [DOI]
 
 **Associated publication**
 
