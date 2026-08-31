@@ -179,7 +179,7 @@ Each nucleation pressure has one aggregated fitted result. Trend statistics in t
 
 ## Citation
 
-If you use this code or data, please, cite the publication: > [Johnson et al. ([2026]). How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks. [ACS Applied Materials & Interfaces]. [DOI]]
+If you use this code or data, please, cite the publication: Johnson et al. ([2026]). How Crystallite Size and Topology Control Intrusion–Extrusion Hysteresis in Metal–Organic Frameworks. [ACS Applied Materials & Interfaces]. [DOI]
 
 **Associated publication**
 
