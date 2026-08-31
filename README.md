@@ -189,7 +189,7 @@ If you use this code or data, please, cite the publication: *Johnson et al. 2026
 
 For questions about the simulations or data, contact:
 
-> [Daniel Moreno-Rodriguez] — [daniel.morenorodriguez@uniroma1.it]
+> [Daniel Moreno-Rodríguez] — [daniel.morenorodriguez@uniroma1.it]
 
 
 
