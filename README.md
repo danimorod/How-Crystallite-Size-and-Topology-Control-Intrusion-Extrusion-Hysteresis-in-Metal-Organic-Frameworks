@@ -1,4 +1,4 @@
-# Stochastic wetting, hysteresis, and nucleation in ZIF-71 (RHO) and ZIF-67 (SOD)
+# Stochastic intrusion/extrusion, hysteresis, and nucleation in ZIF-71 (RHO) and ZIF-67 (SOD)
 
 ## Overview
 
