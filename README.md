@@ -73,9 +73,6 @@ python -m pip install numpy pandas scipy matplotlib jupyter
 The simulation scripts can be computationally demanding. Runtime and memory use depend on the topology, network size, pressure-grid resolution, number of replicates, and available CPU cores.
 
 ## Reproducing the hysteresis simulations
-
-Run commands from the `ZENODO_repository` directory so that relative output paths are easy to locate.
-
 ### ZIF-71 (RHO)
 
 ```bash
