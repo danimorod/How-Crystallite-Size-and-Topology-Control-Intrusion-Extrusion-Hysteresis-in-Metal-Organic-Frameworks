@@ -123,14 +123,7 @@ The nucleation scripts perform multiple stochastic realizations at each pressure
 S(t) = exp[-(t / tau)^beta],
 ```
 
-where `tau` is the characteristic first-nucleation time and `beta` is the shape parameter. The regime thresholds implemented in the scripts are:
-
-| Regime | Criterion |
-|---|---:|
-| Rate-less (Sear) | beta < 0.7 |
-| Intermediate | 0.7 <= beta < 0.9 |
-| Classical | 0.9 <= beta <= 1.1 |
-| Super-exponential | beta > 1.1 |
+where `tau` is the characteristic first-nucleation time and `beta` is the shape parameter. 
 
 Run the simulations with:
 
