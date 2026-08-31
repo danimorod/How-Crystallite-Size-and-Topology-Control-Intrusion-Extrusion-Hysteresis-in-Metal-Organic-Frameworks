@@ -1,2 +1,2 @@
 # How-Crystallite-Size-and-Topology-Control-Intrusion-Extrusion-Hysteresis-in-Metal-Organic-Frameworks
-This Zenodo deposit contains Python simulation code, processed numerical results, analysis notebooks, and publication-ready figures for stochastic wetting/dewetting and nucleation in two zeolitic imidazolate framework (ZIF) topologies:  - **ZIF-71**, represented by the **RHO** topology; - **ZIF-67**, represented by the **SOD** topology.
+This deposit contains Python simulation code, processed numerical results, analysis notebooks, and publication-ready figures for stochastic wetting/dewetting and nucleation in two zeolitic imidazolate framework (ZIF) topologies:  - **ZIF-71**, represented by the **RHO** topology; - **ZIF-67**, represented by the **SOD** topology.
